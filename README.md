@@ -1,13 +1,13 @@
 # Piano-Shop
 Create a Piano Shop
 
-*Start Date: January 28, 2021*
-*End Date:     *
+**Start Date: January 28, 2021**
+**End Date:     **
 
-##Objective:
+## Objective:
   Create a basic homepage for a piano shop
   
-*Skills to Practice:*
+### Skills to Practice:
 -Flexbox properties
 -CSS Pseudo-classes
 -Margin Collapsing 
