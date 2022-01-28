@@ -2,7 +2,7 @@
 Create a Piano Shop
 
 **Start Date: January 28, 2021**
-**End Date:     **
+**End Date:     
 
 ## Objective:
   Create a basic homepage for a piano shop
